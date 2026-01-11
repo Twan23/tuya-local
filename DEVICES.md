@@ -1,9 +1,9 @@
 # Supported devices
 [Heaters](#heaters)
-[AC/Heat Pumps](#ac)
+[AC/Heat Pumps](#air-conditioners--heat-pumps)
 
 
-### Heaters {#heaters}
+### Heaters
 
 - Advanced Fires 1500 electric fireplace
 - Amantii Bespoke R1-2-AP1 fireplace
@@ -88,7 +88,7 @@
 - Wetair WCH-750 heater
 - Zephir ZMW4000V wall heater
 
-### Air Conditioners / Heat pumps {#ac}
+### Air Conditioners / Heat pumps
 
 - Arlec PA1123BKHA portable air conditioner
 - Ballu Aura air conditioner
@@ -1309,4 +1309,5 @@ thing, it expands the support requirements beyond the capacity of the
 volunteer manpower of this project. The community would be better served by
 making Tuya devices work with the standard BLE and Zigbee support in
 Home Assistant rather than the other way around.
+
 
