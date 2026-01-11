@@ -1,6 +1,9 @@
 # Supported devices
+[Heaters](#heaters)
+[AC/Heat Pumps](#ac)
 
-### Heaters
+
+### Heaters {#heaters}
 
 - Advanced Fires 1500 electric fireplace
 - Amantii Bespoke R1-2-AP1 fireplace
@@ -85,7 +88,7 @@
 - Wetair WCH-750 heater
 - Zephir ZMW4000V wall heater
 
-### Air Conditioners / Heat pumps
+### Air Conditioners / Heat pumps {#ac}
 
 - Arlec PA1123BKHA portable air conditioner
 - Ballu Aura air conditioner
@@ -417,7 +420,8 @@
 - Siguro Air Master AP-K50 air purifier
 - Smartmi E1 and P1 air purifiers
 - Soho SO-350WUI Air Purifier
-- Soleusair A02 and A10 air purifiers
+- Soleusair A02 and A10 air purifiers
+
 - Stadler Form Roger air purifier
 - Tesla Smart S300, Pro and Mini air purifiers
 - TrueLife P3 and P7 air purifiers
@@ -1305,3 +1309,4 @@ thing, it expands the support requirements beyond the capacity of the
 volunteer manpower of this project. The community would be better served by
 making Tuya devices work with the standard BLE and Zigbee support in
 Home Assistant rather than the other way around.
+
