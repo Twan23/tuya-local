@@ -1,7 +1,35 @@
 # Supported devices
-[Heaters](#heaters)
-[AC/Heat Pumps](#air-conditioners--heat-pumps)
 
+**[Heaters](#heaters)**  
+**[Air Conditioners / Heat Pumps](#air-conditioners--heat-pumps)**  
+**[Pool Heater / Heat Pumps](#pool-heaters--heat-pumps)**  
+**[Water Heaters](#water-heaters)**  
+**[Thermostats](#thermostats)**  
+**[Fans](#fans)**  
+**[Air Purifiers](#air-purifiers)**  
+**[Dehumidifiers](#dehumidifiers)**  
+**[Humidifiers](#humidifiers)**  
+**[Aroma Diffusers](#aroma-diffusers)**  
+**[Kitchen Appliences](#kitchen-appliances)**  
+**[Smart Meter/Circuit Breaker](#smart-metercircuit-breaker)**  
+**[Battery Charger](#battery-charger)**  
+**[SmartPlugs/Wall sockets/Wall switches/Inline switches](#smartplugswall-socketswall-switchesinline-switches)**  
+**[Lighting](#lighting)**  
+**[Covers](#covers)**  
+**[Robot Vacuums](#robot-vacuums)**  
+**[Lawnmowers](#lawnmowers)**  
+**[Locks](#locks)**  
+**[Sirens](#sirens)**  
+**[Doorbells](#doorbells)**  
+**[Cameras](#cameras)**  
+**[Alarm control panels](#alarm-control-panels)**  
+**[Pet Care](#pet-care)**  
+**[Remote Controllers](#remote-controllers)**  
+**[Valves](#valves)**  
+**[Miscellaneous](#miscellaneous)**  
+**[Devices supported via Bluetooth hubs](#devices-supported-via-bluetooth-hubs)**  
+**[Devices supported via IR hubs](#devices-supported-via-ir-hubs)**  
+**[Devices supported via Zigbee hubs](#devices-supported-via-zigbee-hubs)**  
 
 ### Heaters
 
@@ -1309,5 +1337,6 @@ thing, it expands the support requirements beyond the capacity of the
 volunteer manpower of this project. The community would be better served by
 making Tuya devices work with the standard BLE and Zigbee support in
 Home Assistant rather than the other way around.
+
 
 
